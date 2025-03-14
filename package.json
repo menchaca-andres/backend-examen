@@ -1,0 +1,27 @@
+{
+  "name": "backend-mongo",
+  "version": "1.0.0",
+  "description": "Este es un proyecto backend utilizando **Node.js**, **Express.js** y **MongoDB**. Está diseñado para gestionar las colecciones **Usuarios** y **Productos** en una base de datos MongoDB con soporte para operaciones CRUD y estadísticas de operaciones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menchaca-andres/backend-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menchaca-andres/backend-mongo/issues"
+  },
+  "homepage": "https://github.com/menchaca-andres/backend-mongo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "morgan": "^1.10.0"
+  }
+}
