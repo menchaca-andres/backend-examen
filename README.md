@@ -7,7 +7,7 @@ Este es un proyecto backend utilizando **Node.js**, **Express.js** y **MongoDB**
 Antes de empezar, asegúrate de tener instalados los siguientes componentes en tu máquina:
 
 - **Node.js**: [Descargar Node.js](https://nodejs.org/)
-- **MongoDB**: [Instalar MongoDB](https://www.mongodb.com/try/download/community) o puedes utilizar **MongoDB Atlas** si prefieres una base de datos en la nube.
+- **MongoDB**: [Instalar MongoDB](https://www.mongodb.com/try/download/community).
 
 ## 🔥 Instrucciones de Instalación
 
